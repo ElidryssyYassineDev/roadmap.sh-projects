@@ -18,7 +18,7 @@ This repository contains practical projects designed to improve my skills in web
 
 **Description:** A simple HTML-only website with multiple pages.
 **Project URL:** comming soon
-**Solution URL:** comming soon 
+**Solution URL:** https://github.com/ElidryssyYassineDev/roadmap.sh-projects/tree/main/EASY-PROJECTS/02-basic-html-website 
 
 ---
 
